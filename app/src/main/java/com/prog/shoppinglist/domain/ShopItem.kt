@@ -5,7 +5,7 @@ data class ShopItem(
     val name: String,
     val count: Int,
     val enabled: Boolean,
-    val id: Int = UNDEFINED_ID,
+    var id: Int = UNDEFINED_ID,
 ) {
 
     companion object {
