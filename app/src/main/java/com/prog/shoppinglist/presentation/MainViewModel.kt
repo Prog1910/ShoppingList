@@ -1,6 +1,5 @@
 package com.prog.shoppinglist.presentation
 
-import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.prog.shoppinglist.data.ShopListRepositoryImpl
 import com.prog.shoppinglist.domain.*
